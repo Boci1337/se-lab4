@@ -1,0 +1,5 @@
+GT4500,1,1,1,0
+TORPEDO,SINGLE  # meghibasodik
+TORPEDO,SINGLE  # lo a masik 
+TORPEDO,SINGLE  # lo a hibás, megint meghibasodik 
+TORPEDO,SINGLE  # lone a masik de ures
