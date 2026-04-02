@@ -1,0 +1,4 @@
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # lo
+TORPEDO,SINGLE  # lo a masik 
+TORPEDO,SINGLE  # kifogy
